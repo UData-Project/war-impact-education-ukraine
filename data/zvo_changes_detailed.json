@@ -1,0 +1,441 @@
+{
+  "regions": [
+    {
+      "name": "м. Київ",
+      "name_en": "Kyiv City",
+      "total_2020": 97,
+      "total_2024": 83,
+      "net_change": -14,
+      "changes": {
+        "reorganizations_negative": -5,
+        "closed_violations": 0,
+        "military_destroyed": -2,
+        "natural_optimization": -7,
+        "received_displaced": 3,
+        "reorganizations_positive": 0
+      },
+      "displaced_universities": [
+        {"from": "Донецьк", "name": "Маріупольський ДУ", "to_specific": "КНУБА"},
+        {"from": "Сімферополь", "name": "Таврійський НУ ім. Вернадського", "to_specific": "Київ"}
+      ]
+    },
+    {
+      "name": "Вінницька",
+      "name_en": "Vinnytsia",
+      "total_2020": 17,
+      "total_2024": 11,
+      "net_change": -6,
+      "changes": {
+        "reorganizations_negative": -1,
+        "closed_violations": 0,
+        "military_destroyed": 0,
+        "natural_optimization": -6,
+        "received_displaced": 1,
+        "reorganizations_positive": 0
+      },
+      "displaced_universities": [
+        {"from": "Донецьк", "name": "Донецький НУ", "to_specific": "Вінниця"}
+      ]
+    },
+    {
+      "name": "Волинська",
+      "name_en": "Volyn",
+      "total_2020": 10,
+      "total_2024": 7,
+      "net_change": -3,
+      "changes": {
+        "reorganizations_negative": 0,
+        "closed_violations": 0,
+        "military_destroyed": 0,
+        "natural_optimization": -4,
+        "received_displaced": 1,
+        "reorganizations_positive": 0
+      },
+      "displaced_universities": [
+        {"from": "Донецьк", "name": "Донецький НТУ", "to_specific": "Луцьк"}
+      ]
+    },
+    {
+      "name": "Дніпропетровська",
+      "name_en": "Dnipropetrovsk",
+      "total_2020": 51,
+      "total_2024": 26,
+      "net_change": -25,
+      "changes": {
+        "reorganizations_negative": -3,
+        "closed_violations": 0,
+        "military_destroyed": 0,
+        "natural_optimization": -25,
+        "received_displaced": 3,
+        "reorganizations_positive": 0
+      },
+      "displaced_universities": [
+        {"from": "Маріуполь", "name": "Приазовський ДТУ", "to_specific": "НТУ Дніпровська політехніка"},
+        {"from": "Луганськ", "name": "Луганський НАУ", "to_specific": "Дніпро"},
+        {"from": "Горлівка", "name": "Горлівський інститут іноземних мов", "to_specific": "Дніпро"}
+      ]
+    },
+    {
+      "name": "Донецька",
+      "name_en": "Donetsk",
+      "total_2020": 21,
+      "total_2024": null,
+      "net_change": null,
+      "changes": {
+        "reorganizations_negative": 0,
+        "closed_violations": 0,
+        "military_destroyed": -4,
+        "natural_optimization": 0,
+        "received_displaced": 0,
+        "reorganizations_positive": 0
+      },
+      "displaced_universities": []
+    },
+    {
+      "name": "Житомирська",
+      "name_en": "Zhytomyr",
+      "total_2020": 12,
+      "total_2024": 4,
+      "net_change": -8,
+      "changes": {
+        "reorganizations_negative": -1,
+        "closed_violations": 0,
+        "military_destroyed": 0,
+        "natural_optimization": -7,
+        "received_displaced": 0,
+        "reorganizations_positive": 0
+      },
+      "displaced_universities": []
+    },
+    {
+      "name": "Закарпатська",
+      "name_en": "Zakarpattia",
+      "total_2020": 9,
+      "total_2024": 7,
+      "net_change": -2,
+      "changes": {
+        "reorganizations_negative": 0,
+        "closed_violations": 0,
+        "military_destroyed": 0,
+        "natural_optimization": -2,
+        "received_displaced": 0,
+        "reorganizations_positive": 0
+      },
+      "displaced_universities": []
+    },
+    {
+      "name": "Запорізька",
+      "name_en": "Zaporizhzhia",
+      "total_2020": 16,
+      "total_2024": 13,
+      "net_change": -3,
+      "changes": {
+        "reorganizations_negative": 0,
+        "closed_violations": -1,
+        "military_destroyed": 0,
+        "natural_optimization": -2,
+        "received_displaced": 0,
+        "reorganizations_positive": 0
+      },
+      "displaced_universities": []
+    },
+    {
+      "name": "Івано-Франківська",
+      "name_en": "Ivano-Frankivsk",
+      "total_2020": 13,
+      "total_2024": 11,
+      "net_change": -2,
+      "changes": {
+        "reorganizations_negative": 0,
+        "closed_violations": 0,
+        "military_destroyed": 0,
+        "natural_optimization": -4,
+        "received_displaced": 2,
+        "reorganizations_positive": 0
+      },
+      "displaced_universities": [
+        {"from": "Херсон", "name": "Херсонський ДУ", "to_specific": "Івано-Франківськ"},
+        {"from": "Донецьк", "name": "ДонНАБА", "to_specific": "Івано-Франківськ"}
+      ]
+    },
+    {
+      "name": "Київська",
+      "name_en": "Kyiv Oblast",
+      "total_2020": 12,
+      "total_2024": 8,
+      "net_change": -4,
+      "changes": {
+        "reorganizations_negative": 0,
+        "closed_violations": 0,
+        "military_destroyed": 0,
+        "natural_optimization": -4,
+        "received_displaced": 0,
+        "reorganizations_positive": 0
+      },
+      "displaced_universities": []
+    },
+    {
+      "name": "Кіровоградська",
+      "name_en": "Kirovohrad",
+      "total_2020": 9,
+      "total_2024": 8,
+      "net_change": -1,
+      "changes": {
+        "reorganizations_negative": 0,
+        "closed_violations": 0,
+        "military_destroyed": 0,
+        "natural_optimization": -1,
+        "received_displaced": 0,
+        "reorganizations_positive": 0
+      },
+      "displaced_universities": []
+    },
+    {
+      "name": "Луганська",
+      "name_en": "Luhansk",
+      "total_2020": 10,
+      "total_2024": null,
+      "net_change": null,
+      "changes": {
+        "reorganizations_negative": 0,
+        "closed_violations": 0,
+        "military_destroyed": 0,
+        "natural_optimization": 0,
+        "received_displaced": 0,
+        "reorganizations_positive": 0
+      },
+      "displaced_universities": []
+    },
+    {
+      "name": "Львівська",
+      "name_en": "Lviv",
+      "total_2020": 33,
+      "total_2024": 21,
+      "net_change": -12,
+      "changes": {
+        "reorganizations_negative": -3,
+        "closed_violations": 0,
+        "military_destroyed": 0,
+        "natural_optimization": -9,
+        "received_displaced": 0,
+        "reorganizations_positive": 0
+      },
+      "displaced_universities": []
+    },
+    {
+      "name": "Миколаївська",
+      "name_en": "Mykolaiv",
+      "total_2020": 11,
+      "total_2024": 8,
+      "net_change": -3,
+      "changes": {
+        "reorganizations_negative": 0,
+        "closed_violations": -1,
+        "military_destroyed": 0,
+        "natural_optimization": -2,
+        "received_displaced": 0,
+        "reorganizations_positive": 0
+      },
+      "displaced_universities": []
+    },
+    {
+      "name": "Одеська",
+      "name_en": "Odesa",
+      "total_2020": 31,
+      "total_2024": 19,
+      "net_change": -12,
+      "changes": {
+        "reorganizations_negative": -3,
+        "closed_violations": 0,
+        "military_destroyed": 0,
+        "natural_optimization": -9,
+        "received_displaced": 0,
+        "reorganizations_positive": 0
+      },
+      "displaced_universities": []
+    },
+    {
+      "name": "Полтавська",
+      "name_en": "Poltava",
+      "total_2020": 13,
+      "total_2024": 8,
+      "net_change": -5,
+      "changes": {
+        "reorganizations_negative": 0,
+        "closed_violations": 0,
+        "military_destroyed": 0,
+        "natural_optimization": -6,
+        "received_displaced": 1,
+        "reorganizations_positive": 0
+      },
+      "displaced_universities": [
+        {"from": "Старобільськ", "name": "Луганський НУ ім. Шевченка", "to_specific": "Полтава"}
+      ]
+    },
+    {
+      "name": "Рівненська",
+      "name_en": "Rivne",
+      "total_2020": 11,
+      "total_2024": 8,
+      "net_change": -3,
+      "changes": {
+        "reorganizations_negative": 0,
+        "closed_violations": 0,
+        "military_destroyed": 0,
+        "natural_optimization": -4,
+        "received_displaced": 1,
+        "reorganizations_positive": 0
+      },
+      "displaced_universities": [
+        {"from": "Луганськ", "name": "Луганський ДМУ", "to_specific": "Рівне"}
+      ]
+    },
+    {
+      "name": "Сумська",
+      "name_en": "Sumy",
+      "total_2020": 7,
+      "total_2024": 5,
+      "net_change": -2,
+      "changes": {
+        "reorganizations_negative": 0,
+        "closed_violations": 0,
+        "military_destroyed": 0,
+        "natural_optimization": -2,
+        "received_displaced": 0,
+        "reorganizations_positive": 0
+      },
+      "displaced_universities": []
+    },
+    {
+      "name": "Тернопільська",
+      "name_en": "Ternopil",
+      "total_2020": 11,
+      "total_2024": 6,
+      "net_change": -5,
+      "changes": {
+        "reorganizations_negative": 0,
+        "closed_violations": 0,
+        "military_destroyed": 0,
+        "natural_optimization": -5,
+        "received_displaced": 0,
+        "reorganizations_positive": 0
+      },
+      "displaced_universities": []
+    },
+    {
+      "name": "Харківська",
+      "name_en": "Kharkiv",
+      "total_2020": 55,
+      "total_2024": 28,
+      "net_change": -27,
+      "changes": {
+        "reorganizations_negative": -2,
+        "closed_violations": 0,
+        "military_destroyed": -1,
+        "natural_optimization": -24,
+        "received_displaced": 0,
+        "reorganizations_positive": 0
+      },
+      "displaced_universities": []
+    },
+    {
+      "name": "Херсонська",
+      "name_en": "Kherson",
+      "total_2020": 13,
+      "total_2024": null,
+      "net_change": null,
+      "changes": {
+        "reorganizations_negative": 0,
+        "closed_violations": 0,
+        "military_destroyed": -1,
+        "natural_optimization": 0,
+        "received_displaced": 0,
+        "reorganizations_positive": 0
+      },
+      "displaced_universities": []
+    },
+    {
+      "name": "Хмельницька",
+      "name_en": "Khmelnytskyi",
+      "total_2020": 18,
+      "total_2024": 11,
+      "net_change": -7,
+      "changes": {
+        "reorganizations_negative": -1,
+        "closed_violations": 0,
+        "military_destroyed": 0,
+        "natural_optimization": -6,
+        "received_displaced": 0,
+        "reorganizations_positive": 0
+      },
+      "displaced_universities": []
+    },
+    {
+      "name": "Черкаська",
+      "name_en": "Cherkasy",
+      "total_2020": 15,
+      "total_2024": 8,
+      "net_change": -7,
+      "changes": {
+        "reorganizations_negative": -1,
+        "closed_violations": 0,
+        "military_destroyed": 0,
+        "natural_optimization": -6,
+        "received_displaced": 0,
+        "reorganizations_positive": 0
+      },
+      "displaced_universities": []
+    },
+    {
+      "name": "Чернівецька",
+      "name_en": "Chernivtsi",
+      "total_2020": 11,
+      "total_2024": 4,
+      "net_change": -7,
+      "changes": {
+        "reorganizations_negative": 0,
+        "closed_violations": 0,
+        "military_destroyed": 0,
+        "natural_optimization": -7,
+        "received_displaced": 0,
+        "reorganizations_positive": 0
+      },
+      "displaced_universities": []
+    },
+    {
+      "name": "Чернігівська",
+      "name_en": "Chernihiv",
+      "total_2020": 9,
+      "total_2024": 6,
+      "net_change": -3,
+      "changes": {
+        "reorganizations_negative": 0,
+        "closed_violations": 0,
+        "military_destroyed": 0,
+        "natural_optimization": -3,
+        "received_displaced": 0,
+        "reorganizations_positive": 0
+      },
+      "displaced_universities": []
+    }
+  ],
+  "flow_data": [
+    {"from": "Донецька", "to": "м. Київ", "count": 2, "universities": ["Маріупольський ДУ", "Таврійський НУ"]},
+    {"from": "Донецька", "to": "Вінницька", "count": 1, "universities": ["Донецький НУ"]},
+    {"from": "Донецька", "to": "Волинська", "count": 1, "universities": ["Донецький НТУ"]},
+    {"from": "Донецька", "to": "Дніпропетровська", "count": 2, "universities": ["Приазовський ДТУ", "Горлівський інститут"]},
+    {"from": "Донецька", "to": "Івано-Франківська", "count": 1, "universities": ["ДонНАБА"]},
+    {"from": "Луганська", "to": "Полтавська", "count": 1, "universities": ["Луганський НУ ім. Шевченка"]},
+    {"from": "Луганська", "to": "Дніпропетровська", "count": 1, "universities": ["Луганський НАУ"]},
+    {"from": "Луганська", "to": "Рівненська", "count": 1, "universities": ["Луганський ДМУ"]},
+    {"from": "Херсонська", "to": "Івано-Франківська", "count": 1, "universities": ["Херсонський ДУ"]}
+  ],
+  "summary": {
+    "total_reorganizations": 18,
+    "total_closed_violations": 2,
+    "total_military_destroyed": 8,
+    "total_displaced": 12,
+    "total_natural_optimization": 150,
+    "total_received_displaced": 12
+  }
+}
